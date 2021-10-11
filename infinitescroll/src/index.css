@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: 'Open Sans Condensed', sans-serif;
+  padding: 0;
+  height: 100vh;
+  background-color: #bbdef3;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
